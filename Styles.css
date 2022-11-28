@@ -1,0 +1,91 @@
+/*
+
+Selector {
+proporty: Values;
+
+}
+
+
+img { disply:block: inline blocks 
+    width 30% 
+    height::-auto 
+
+    margin auto 10%
+
+
+body { backround:image: url 
+    backround repeat no repeat 
+    backround size cover 
+
+
+no border 
+
+backround color .nav>li
+
+border radius : 10px
+
+img border- radius 
+.nav>li>a
+
+text decortation none 
+color
+: 
+
+*/
+
+.nav{
+
+    list-style: none;
+    
+    padding-left: 0%;
+
+    width: 50%;
+
+    margin: auto;
+
+    text-align: center;
+
+}
+
+
+.nav>li{
+
+border-style: ridge;
+
+display: inline-block;
+
+}
+
+.nav>li>a{
+
+    text-decoration: none;
+    color: aliceblue;
+
+}
+
+body{
+ 
+background-image:url(Images/iddk.webp);
+
+background-repeat: no-repeat;
+
+background-size: cover;
+}
+
+h1{ 
+    text-align: center;
+    color: aliceblue;
+    
+    }
+
+img {
+    display: block;
+    width: 50%;
+    margin: auto;
+}
+
+h3{ 
+    text-align: center;
+    color: aliceblue;
+}
+
